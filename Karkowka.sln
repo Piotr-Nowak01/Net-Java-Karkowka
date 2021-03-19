@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karkowka", "Karkowka\Karkowka.csproj", "{4CAEABC8-9928-418B-9B59-0183034B5BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{597F3858-EE08-4E92-A078-0F13C128A676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CAEABC8-9928-418B-9B59-0183034B5BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAEABC8-9928-418B-9B59-0183034B5BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAEABC8-9928-418B-9B59-0183034B5BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAEABC8-9928-418B-9B59-0183034B5BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597F3858-EE08-4E92-A078-0F13C128A676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597F3858-EE08-4E92-A078-0F13C128A676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597F3858-EE08-4E92-A078-0F13C128A676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597F3858-EE08-4E92-A078-0F13C128A676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCBBDE0-30E9-467A-B525-0CBB860A6A21}
+	EndGlobalSection
+EndGlobal
